@@ -43,7 +43,7 @@
 
 <div align="left">
    <a href="https://oac.unbordered-productions.com/" target="_blank">
-    💻 `Open-Autonomous-Connection`
+    💻 Open-Autonomous-Connection
    </a>
 
 </div>
@@ -91,13 +91,6 @@
 <br>
 
 <!-- STATS -->
-
-<div align="center">
-  <a href="https://github.com/unbordered-productions/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=unbordered-productions&bg_color=0e1118&hide_border=true&custom_title=Unbordered%20Productions%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="Unbordered Productions-graph" title="Unbordered Productions Contribution Graph">
-  </a>
-</div>
-
 <div align="center">
   <a href="#">
     <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">

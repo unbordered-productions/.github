@@ -52,7 +52,7 @@
 <div align="left">
    <a href="https://www.unbordered-productions.com/" target="_blank">
     🌍 Website
-   </a>
+   </a><br />
      <a href="https://discord.gg/3YBEswuZzq" target="_blank">
     📱 Discord
    </a>

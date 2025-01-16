@@ -45,8 +45,20 @@
    <a href="https://oac.unbordered-productions.com/" target="_blank">
     💻 Open-Autonomous-Connection
    </a>
-
 </div>
+
+### <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm12cWw0Zzk5bzQyMzNmZXM3OHZhYjMwN2F6YThzMWppNTJpMjA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif"><img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm12cWw0Zzk5bzQyMzNmZXM3OHZhYjMwN2F6YThzMWppNTJpMjA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WT5h7PgVSScLLKtMaS/giphy.gif" width="37" alt="MagicCube-gif"/></a> Our Links:
+
+<div align="left">
+   <a href="https://www.unbordered-productions.com/" target="_blank">
+    🌍 Website
+   </a>
+     <a href="https://discord.gg/3YBEswuZzq" target="_blank">
+    📱 Discord
+   </a>
+</div>
+
+###
 
 <!-- THANKS FOR VISITING -->
 
@@ -61,7 +73,7 @@
 <div align="center">
   <p align="center"><b>Visitors</b></p>  
   <p align="center">
-    <a href="#">
+    <a href="https://github.com/unbordered-productions">
       <img align="center" src="https://profile-counter.glitch.me/{unbordered-productions}/count.svg" alt="VisitorsCount-SVG" title="Unbordered Productions Profile Visitors Counter"/>
     </a>
   </p> 
